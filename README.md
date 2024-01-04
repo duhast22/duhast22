@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sophia! <br/><a href="www.linkedin.com/in/sophiayermolenko/">Programmer</a>, <a href="https://vimeo.com/showcase/9890617/video/833529811">Concert Pianist</a></h1>
+<h1>Hi, I'm Sophia! <br/><a href="www.linkedin.com/in/sophiayermolenko/">Programmer</a> and <a href="https://vimeo.com/showcase/9890617/video/833529811">Concert Pianist</a></h1>
 
 <h2>Software Development Projects:</h2>
 
