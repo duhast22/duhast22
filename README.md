@@ -5,11 +5,11 @@
 <h2>Software Development Projects:</h2>
 
 - <b>Working with ECG — Heart Rate data</b>
-  - [Detection of Life-threatening Arrhythmias in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Detection of Life-threatening Arrhythmias in Python](https://github.com/duhast22/heart-rate-data)
 - <b>2D Graphics and 3D Software Rendering</b>
   - [2D Graphics and 3D Software Rendering in C++](https://github.com/duhast22/3DSoftwareRendering)
 - <b>3D OpenGL Rendering</b>
-  - [Interactive Interface for Inspecting 3D Models in C++](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Interactive Interface for Inspecting 3D Models in C++](https://github.com/duhast22/openGL-interface)
 - <b>Graph Transmission Clustering</b>
   - [Representation of Transmission Clustering Using Graphs in C++](https://github.com/duhast22/C-graphs)
 
